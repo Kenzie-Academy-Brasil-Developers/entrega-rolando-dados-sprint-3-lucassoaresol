@@ -1,0 +1,16 @@
+span{
+    display: block;
+}
+
+.text_graf{
+    display: flex;
+    gap: 20px;
+}
+
+.graf{
+    font-size: 11px;
+    color: white;
+    height: 30px;
+    background-color: green;
+    border: solid 5px black;
+}
